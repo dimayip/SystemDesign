@@ -48,12 +48,12 @@
 - [第5章 指标监控与告警系统](Volume2%2FCHAPTER%2005%EF%BC%9AMetrics%20Monitoring%20and%20Alerting%20System.md)
 - [第6章 广告点击事件聚合](<Volume2/CHAPTER 06：Ad Click Event Aggregation.md>)
 - [第7章 酒店预订系统](<Volume2/CHAPTER 07：Hotel Reservation System.md>)
-- [ ] 第8章 分布式邮件服务
-- [ ] 第9章 类 S3 对象存储
+- [第8章 分布式邮件服务](<Volume2/CHAPTER 08：Distributed Email Service.md>)
+- [第9章 类 S3 对象存储](<Volume2/CHAPTER 09：S3-like Object Storage.md>)
 - [第10章：实时游戏排行榜](<Volume2/CHAPTER 10：Real-time Gaming Leaderboard.md>)
-- [ ] 第11章 支付系统
-- [ ] 第12章 数字钱包
-- [ ] 第13章 股票交易所
+- [第11章 支付系统](<Volume2/CHAPTER 11：Payment System.md>)
+- [第12章 数字钱包](<Volume2/CHAPTER 12：Digital Wallet.md>)
+- [第13章 股票交易所](<Volume2/CHAPTER 13：Stock Exchange.md>)
 
 # 声明
 
